@@ -7,5 +7,9 @@ public class ItemCity {
     public enum Type {
         GROCERIES, MEDICINES, WATCHES, LUXUARYGOODS
     }
+    public void test()
+    {
+        System.out.println("100");
+    }
 
 }
